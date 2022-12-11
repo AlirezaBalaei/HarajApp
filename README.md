@@ -3,4 +3,6 @@
 
 # تست سایت
 به دلیل پرداخت نکردن هاست :) اکنون وب سایت آزمایشی از دسترس خارج شده ولی ویدیویی از آن تهیه کردم تا رابط کاربری آن را ببینید:
-[HarajAppTest.webm](https://user-images.githubusercontent.com/99330644/206919799-b48d5b74-e2e2-4a06-b8dd-8105bf888542.webm)
+
+
+[![HarajApp UI](https://user-images.githubusercontent.com/99330644/206920715-5d79128e-426a-4f65-aba8-5fcea4ab85e6.png)](https://user-images.githubusercontent.com/99330644/206919799-b48d5b74-e2e2-4a06-b8dd-8105bf888542.webm "ui testing video")
